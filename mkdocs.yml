@@ -1,0 +1,9 @@
+site_name: My Docs
+
+theme:
+  bame: material
+
+plugins:
+  - seartch
+  - mermaid2
+  - mkdosctrings
